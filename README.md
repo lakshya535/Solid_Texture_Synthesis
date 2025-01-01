@@ -1,6 +1,7 @@
 # Computer Graphics Project
 
-This repository contains the code for the Computer Graphics project - Mid Evaluation (Project 11, Group 6).
+This repository contains the code for the Computer Graphics project.
+Kindly find the code here : https://drive.google.com/drive/folders/1486EobZcNCY_MW5KrXmaZMnxWpV2_SHU?usp=drive_link
 
 ## Instructions for Running the Project
 
